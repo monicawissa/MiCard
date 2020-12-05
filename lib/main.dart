@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('images/angela.jpg'),
             ),
             Text(
-              'Angela Yu',
+              'Monica wissa',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 40.0,
@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    '+44 123 456 789',
+                    '+1222222222',
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'Source Sans Pro',
@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'angela@email.com',
+                    'moka@email.com',
                     style: TextStyle(
                         fontSize: 20.0,
                         color: Colors.teal.shade900,
